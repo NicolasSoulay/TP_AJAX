@@ -1,0 +1,18 @@
+#map{
+    height: 650px;
+}
+
+form{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    color: white;
+}
+
+.formElement{
+    margin:5px;
+}
+
+body{
+    background-color: black;
+}
